@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="25.667" viewBox="0 0 28 25.667">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9d9;
+      }
+    </style>
+  </defs>
+  <g id="noun_gender_2424479" transform="translate(104 39)">
+    <g id="Groupe_275" data-name="Groupe 275" transform="translate(-104 -39)">
+      <path id="Tracé_1612" data-name="Tracé 1612" class="cls-1" d="M25.945,6.667V2H21.278l1.508,1.508L20.8,5.5a8.109,8.109,0,0,0-8.466.057A9.39,9.39,0,0,1,13.9,7.365a5.75,5.75,0,0,1,2.709-.7,5.833,5.833,0,1,1,0,11.667,5.738,5.738,0,0,1-2.709-.7,9.357,9.357,0,0,1-1.571,1.812A8.156,8.156,0,0,0,22.615,6.978l1.821-1.821Z" transform="translate(2.055 -2)"/>
+      <path id="Tracé_1613" data-name="Tracé 1613" class="cls-1" d="M9.333,20.241A8.171,8.171,0,1,0,7,20.24v2.427H4.667V25H7v2.333H9.333V25h2.333V22.667H9.333ZM8.167,18A5.833,5.833,0,1,1,14,12.167,5.84,5.84,0,0,1,8.167,18Z" transform="translate(0 -1.667)"/>
+    </g>
+  </g>
+</svg>

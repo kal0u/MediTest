@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.391" height="30.665" viewBox="0 0 17.391 30.665">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="caret-left-solid" class="cls-1" d="M40.729,109.364V135.9a2.062,2.062,0,0,1-3.52,1.458L23.942,124.089a2.062,2.062,0,0,1,0-2.916l13.266-13.266A2.062,2.062,0,0,1,40.729,109.364Z" transform="translate(-23.338 -107.298)"/>
+</svg>
